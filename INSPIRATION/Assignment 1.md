@@ -15,18 +15,22 @@ AngularJS-powered HTML5 Markdown editor.
 (1) TERMS/TOPICS
 
 Technologie cinéma:
-    •    Technologie et machines dans le cinéma de science-fiction  
+    •    Technologie et machines (devices/interfaces) dans le cinéma de science-fiction  
     •    Représentation de la technologie dans le cinéma de science-fiction  
     •    Représentation de l'homme dans le cinéma de science-fiction  
-    •    
+    •    L'importance des plantes et leur rôle dans le cinéma de science-fiction
 
 Design: 
-    •    L’avènement du numérique dans la conception d'objets 
+   •      L’avènement du numérique dans la conception d'objets 
    •      Comment le support papier et le support numérique coexistent
    •      Le design de l'ère spatiale (space age) et ses limites techniques 
+   •      Les nouveaux médias comme méthodes d'impression recyclables (impression 3D/résine/CNC)
+   •      Comment exploiter les émissions solaires dans votre propre maison ? 
+   •      Nouveaux matériaux, comment les exploiter grâce aux nouvelles technologies 
 
 Photographie: 
    •     Souvenirs numériques 
+   •     Numérisation de la photographie et nouvelles approches de celle-ci 
 
 Coexistence nature-numérique: 
     •    Effets biologiques et environnementaux des signaux radio
@@ -35,6 +39,9 @@ Création sonore/Composition musicale:
     •    L’avenir numérique de la composition musicale (LOOP, SYNTH, SAMPLE) 
     •    L’avenir numérique de la création sonore
     •    La musique générative et son potentiel 
+    •    Évolution de l'échantillonnage dans la musique contemporaine et évolution des échantillonneurs.
+    •    Comment les ondes radio peuvent être exploitées dans la musique et le son
+    •    Comment l'approche de la musique et des synthétiseurs est simplifiée par les nouvelles technologies 
 
 Surveillance numérique:
     •    Bubble filtere et navigation filtrée 
@@ -45,19 +52,29 @@ Surveillance numérique:
     •    Relation psychologique entre l'homme et ses extensions numériques 
     •    Utilisation responsable et consciencieuse des médias sociaux 
     •    Propagande du passé et communication par les anciens médias (télévision, radio,...)
+    •    Déformation de la communication et création de contacts en ligne 
+    •    Automatisation de la communication 
+    •    Communication, médias et propagande italiens contemporains (social media)
+    •    La réduction de la communication avec l'avènement de la technologie (emoji, abréviations, argot)  
+    •    Alternatives à l'écran plat, ce que les nouvelles technologies et les nouveaux médias proposent pour entrer dans une réalité technologique tridimensionnelle. 
 
+Tessin:
+    •    Comment concevoir un Tessin numérique et post-fossile ? 
 
-
+Typographie 
+    •    La typographie numérique, les évolutions possibles et l'automatisation de la conception typographique 
 —————————————————————————
 (1) QUESTIONS:
 
-    •    Comment la fiction influence la conception du design ?
+    •    Comment la fiction influence la conception du design ? 
+    •    (Comment la science-fiction a-t-elle influencée le design d’interface?)
 
     •    Comment les médias modernes ont-ils influencé notre façon de communiquer ? 
 
     •    Comment la surveillance numérique modifie notre mode de vie ? 
 
-    •    Que nous permettent les nouvelles technologies en matière d'expérimentation sonore ? 
+    •   Que nous permettent les nouvelles technologies en matière d'expérimentation sonore ? 
+    •   (Comment les artistes emploient-ils <une technologie précise genre IA générative> pour l’expérimentation sonore?”)
 
 —————————————————————————
 (2) ARTICLES 
