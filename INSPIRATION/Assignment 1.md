@@ -179,6 +179,7 @@ J'aimerais avoir un débat éthique et moral sur ce sujet avec des philosophes e
 7.
 J'aimerais interviewer des activistes, des artistes et des designers et inclure des analyses et éventuellement des interviews sur les projets qui démontrent le mieux l'impact de la surveillance numérique sur le comportement humain. 
 
+—————————————————————————
 AUTRES RECHERCHES :
 Interviewer des personnes qui admettent avoir des perturbations ou des problèmes créés par la surveillance numérique ou automatisée :
 
