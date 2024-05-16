@@ -134,7 +134,7 @@ https://fermedestilleuls.ch/exhibition/abloom-ecal/
 https://readings.design/PDF/speculative-everything.pdf
 https://www.sbt.ti.ch/sbt/formaz/LavoriDiMaster2014/PerezLopezAntonia.pdf
 
-—————————————————————————
+—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 QUESTION FINALE:
 
 Comment les gens vivent-ils la surveillance numérique et comment cela influence-t-il leur comportement ?
@@ -232,4 +232,12 @@ https://policyreview.info/articles/analysis/algorithmic-governance-and-need-cons
 https://policyreview.info/articles/analysis/naming-something-collective-does-not-make-it-so-algorithmic-discrimination-and !!!
 https://policyreview.info/articles/analysis/making-sense-data-ethics-powers-behind-data-ethics-debate-european-policymaking
 https://policyreview.info/trust-system
+
+—————————————————————————
+ARTICLES SCOLAIRES  ARTICLES / THESES / OTHER:
+https://pubmed.ncbi.nlm.nih.gov/38424651/#:~:text=Among%20the%20most%20important%20predictors,problems%2C%20and%20increasing%20social%20connectedness.
+https://www.sciencedirect.com/science/article/pii/S0306460323002009
+https://www.eprouvette-unil.ch/cultures-numeriques/
+https://pubmed.ncbi.nlm.nih.gov/37798215/#:~:text=Results%3A%20We%20found%20that%20screen,compared%20to%2023.2%20%25%20in%202012.
+https://www.revmed.ch/revue-medicale-suisse/2022/revue-medicale-suisse-785/depistage-et-interventions-breves-digitales
 
