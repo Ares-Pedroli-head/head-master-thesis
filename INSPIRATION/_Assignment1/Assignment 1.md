@@ -20,7 +20,7 @@ QUESTION ORIGINALE:
 
 Comment le cinéma de science-fiction a-t-il modernisé ou influencé la conception des IHM au fil des ans ?
 
-
+Comment le cinéma de science-fiction a-t-il influencé les télécommunications au cours du 20e siècle et comment les influencera-t-il à l'avenir ? 
 
 —————————————————————————
 QUESTION (réajustement de la demande):
