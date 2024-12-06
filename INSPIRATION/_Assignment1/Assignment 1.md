@@ -108,11 +108,13 @@ LIVRES:
 ”Make It So: Interaction Design Lessons from Science Fiction"
 "Speculative Everything"
 "Design Fiction"
-"Design Noir: The Secret Life of Electronic Objects"
+"Design Noir: The Secret Life of Electronic Objects" 
 "Designing for Interaction: Creating Smart Applications and Clever Devices"
 "HAL's Legacy: 2001's Computer as Dream and Reality"
 "Films of the Future: 90 Films of Design and Science Fiction"
 "The Language of New Media"
+
+STUDI DI CINEMA E LIBRI UTILI SUL CINEMA DI FANTASCIENZA: 
 
 
 
@@ -135,6 +137,8 @@ The Critical Engineering Manifesto https://criticalengineering.org
 
 —————————————————————————
 ARTICLES:
+
+http://www.naimark.net/projects/aspen.html
 
 Elements of Design in Science Fiction
 https://medium.com/adjacent-possible/elements-of-design-in-science-fiction-8396a0c04dd8

@@ -1,0 +1,119 @@
+%!Adobe-FontList 1.24
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/ares/Desktop/PRINTTTTT/Cartella FINAL_PRINT (fr) 2222/Document fonts/AdobeFnt24.lst
+FileLength:2585
+FileModTime:755033512
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:LaicaA-Italic
+FamilyName:Laica
+StyleName:A Regular Italic
+MenuName:Laica A
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:LaicaA-Italic
+WritingScript:Roman
+OutlineFileName:/Users/ares/Desktop/PRINTTTTT/Cartella FINAL_PRINT (fr) 2222/Document fonts/LaicaA-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:170512
+FileModTime:754666711
+NameArray:0,Mac,4,LaicaA-Italic
+NameArray:0,Win,1,Laica A
+NameArray:0,Win,16,Laica
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:LaicaA-Regular
+FamilyName:Laica
+StyleName:A Regular
+MenuName:Laica A
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:LaicaA-Regular
+WritingScript:Roman
+OutlineFileName:/Users/ares/Desktop/PRINTTTTT/Cartella FINAL_PRINT (fr) 2222/Document fonts/LaicaA-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:155328
+FileModTime:754667122
+NameArray:0,Mac,4,LaicaA-Regular
+NameArray:0,Win,1,Laica A
+NameArray:0,Win,16,Laica
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:/Users/ares/Desktop/PRINTTTTT/Cartella FINAL_PRINT (fr) 2222/Document fonts/MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:754411556
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SuisseIntl-Book
+FamilyName:Suisse Int'l
+StyleName:Book
+MenuName:Suisse Int'l Book
+StyleBits:0
+WeightClass:450
+WidthClass:5
+AngleClass:0
+FullName:Suisse Int'l Book
+WritingScript:Roman
+OutlineFileName:/Users/ares/Desktop/PRINTTTTT/Cartella FINAL_PRINT (fr) 2222/Document fonts/SuisseIntl-Book.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:81120
+FileModTime:695920114
+NameArray:0,Mac,4,Suisse Int'l Book
+NameArray:0,Win,1,Suisse Int'l Book
+NameArray:0,Win,16,Suisse Int'l
+%EndFont
+
